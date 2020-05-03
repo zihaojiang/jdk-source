@@ -1,0 +1,14 @@
+# idea #
+.idea/
+*.iml
+
+# project #
+**/target
+web/src/main/webapp/WEB-INF/velocity/system/version.vm
+
+# Eclipse #
+**/.classpath
+**/.project
+
+*.DS_Store
+/out/
